@@ -1,4 +1,13 @@
-public static void Main(string args)
+using System;
+
+namespace Program
 {
-   Console.WriteLine("Hello from git");
+   public statis class Program
+   {
+      public static void Main(string args)
+      {
+         Console.WriteLine("Hello from git");
+      }
+   }
 }
+
